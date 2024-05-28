@@ -1,3 +1,4 @@
 git push:- Uploads local repository information to a remote repository
 git add: add code to local repository without committing it to main.
 git checkout: Lets you navigate between branches and updates files.
+git pull:-Combines git fetch and git merge to update local branch with changes from remote repository.

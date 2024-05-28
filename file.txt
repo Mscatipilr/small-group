@@ -1,2 +1,2 @@
-git add: add code to local repository without committing it to main.
 git push:- Uploads local repository information to a remote repository
+git add: add code to local repository without committing it to main.
